@@ -1,0 +1,9 @@
+python
+java
+machine learning
+deep learning
+data analysis
+sql
+excel
+communication
+teamwork
